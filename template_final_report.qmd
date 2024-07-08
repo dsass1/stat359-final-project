@@ -1,0 +1,30 @@
+---
+title: "Final Project Title"
+subtitle: |
+  | Final Project 
+  | Foundations of Data Science with R (STAT 359)
+author: "YOUR NAME"
+date: today
+
+format:
+  html:
+    toc: true
+    embed-resources: true
+    
+execute:
+  echo: false
+  warning: false
+
+from: markdown+emoji 
+reference-location: margin
+citation-location: margin
+---
+
+::: {.callout-important}
+## Instructions
+
+Read the project instructions thoroughly! Reminder: make sure you have a link to your GitHub repo at the top and are using headers and subheaders appropriately. Look at your final html prior to submitting to ensure that everything is formatted as you expect. This report should be well organized and clearly articulated - don't put the entire report in a call-out or in bold or in bullet points - those are used to highlight important information.
+
+Delete this callout when no longer needed. 
+
+:::
